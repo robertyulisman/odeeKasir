@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904235664048",
+    "project_id": "odee-kurir",
+    "storage_bucket": "odee-kurir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904235664048:android:7eba056230363b4e523175",
+        "android_client_info": {
+          "package_name": "com.kasirapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904235664048-262p7pbqrvrnd0po03u2iig6dnvftur5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTs-KkIhNoFulTvLG1rBeLP-i4fpNAaAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904235664048-262p7pbqrvrnd0po03u2iig6dnvftur5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

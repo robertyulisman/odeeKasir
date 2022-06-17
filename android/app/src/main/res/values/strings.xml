@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kasir</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">YbkCI-W2rQKriueR_ruxogl22_QHeBrMwAfl_7</string>
+</resources>
